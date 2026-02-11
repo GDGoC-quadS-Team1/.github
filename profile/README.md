@@ -1,1 +1,1 @@
-2026 GDGoC-quadS-Team1 Satoori
+2026 GDGoC-quadS-Team1 MoreTale
