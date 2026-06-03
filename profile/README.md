@@ -264,9 +264,9 @@ MORETALE은 각 언어별 TTS 음성을 제공합니다. 부모가 직접 읽어
 
 ## 🎨 Branding & Design
 
-(수정필요)
-
 > MORETALE은 아이와 부모가 함께 사용하는 서비스를 목표로, 따뜻함과 학습 동기를 전달할 수 있는 디자인을 적용했습니다.
+
+> 아동 친화적 경험을 위해 가독성과 직관성에 비중을 두었으며,서비스의 아이덴티티인 꿀벌 캐릭터를 바탕으로 노랑색과 고동색을 활용해 디자인했습니다.
 
 | Element | Description |
 |----------|-------------|
@@ -274,7 +274,7 @@ MORETALE은 각 언어별 TTS 음성을 제공합니다. 부모가 직접 읽어
 | Secondary Color | ![Deep Black](https://img.shields.io/badge/Deep%20Black-%231E1E1E?style=flat-square&logoColor=white) |
 | Brand Motif | 🐝 Bee & 🍯 Honey Jar |
 | Design Keyword | Warm · Friendly · Storytelling |
-| Typography | Pretendard |
+| Typography | Pretendard · Paperlogy |
 
 ---
 
