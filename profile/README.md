@@ -239,6 +239,18 @@ MORETALE은 각 언어별 TTS 음성을 제공합니다. 부모가 직접 읽어
 </kbd>
 </a>
 
+<a href="https://www.adobe.com/products/photoshop.html">
+<kbd>
+<img src="assets/Figma.png" height="60" />
+</kbd>
+</a>
+
+<a href="https://www.adobe.com/products/illustrator.html">
+<kbd>
+<img src="assets/Figma.png" height="60" />
+</kbd>
+</a>
+
 
 </div>
 
