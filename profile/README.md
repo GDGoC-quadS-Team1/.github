@@ -285,7 +285,7 @@ MORETALE은 각 언어별 TTS 음성을 제공합니다. 부모가 직접 읽어
 | Element | Description |
 |----------|-------------|
 | Primary Color | ![Honey Yellow](https://img.shields.io/badge/Honey%20Yellow-%23F7D81E?style=flat-square&logoColor=black) |
-| Secondary Color | ![Deep Black](https://img.shields.io/badge/Deep%20Black-%231E1E1E?style=flat-square&logoColor=white) |
+| Secondary Color | ![Deep Brown](https://img.shields.io/badge/Deep%20Brown-%233E2723?style=flat-square&logoColor=white) |
 | Brand Motif | 🐝 Bee & 🍯 Honey Jar |
 | Design Keyword | Warm · Friendly · Storytelling |
 | Typography | Pretendard · Paperlogy |
