@@ -255,7 +255,7 @@ MORETALE은 각 언어별 TTS 음성을 제공합니다. 부모가 직접 읽어
 </div>
 
 <div align="center">
-<h4>React | TypeScript | Spring | PostgreSQL | Python | FastAPI | Gemini | Google Cloud Platform | Figma</h4>
+<h4>React | TypeScript | Spring | PostgreSQL | Python | FastAPI | Gemini | Google Cloud Platform | Figma | Photoshop | Illustrator</h4>
 </div>
 
 ---
