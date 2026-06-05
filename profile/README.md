@@ -73,13 +73,14 @@ UNESCO와 UNICEF는 아이가 이해할 수 있는 언어로 배우는 환경과
 
 ## 🌍 Global Impact & SDGs
 
-> MORETALE은 SDG 4. Quality Education, SDG 10. Reduced Inequalities, SDG 11. Sustainable Cities and Communities의 가치 실현에 기여합니다.
+> MORETALE은 다문화 가정의 언어 장벽과 정서적 단절 문제를 해결하며 다음과 같은 지속가능발전목표(SDGs)에 기여합니다.
 
 ![SDG_Goals.png](assets/SDG_Goals.png)
 
 #### 🎓 ${\textsf{\color{red}Target\ 4.5:\ Inclusive\ Bilingual\ Education}}$
 
-다문화 가정의 아동은 언어적·문화적 배경으로 인해 교육 기회와 학습 경험에서 불평등을 겪을 수 있습니다. MORETALE은 아이의 언어 수준과 관심사를 반영한 AI 기반 이중언어 동화를 제공합니다. 읽기·듣기·퀴즈 활동을 하나의 이야기 안에 담아 가정 환경에 관계없이 양질의 학습 경험을 제공하고 지속적인 언어 학습을 지원합니다.
+다문화 가정다문화 가정의 아동은 언어적·문화적 배경으로 인해 교육 기회와 학습 경험에서 불평등을 겪을 수 있습니다. MORETALE은 아이의 언어 수준과 관심사를 반영한 AI 기반 이중언어 동화를 제공합니다. 읽기·듣기·퀴즈 활동을 하나의 이야기 안에 담아 가정 환경에 관계없이 양질의 학습 경험을 제공하고 지속적인 언어 학습을 지원합니다.
+의 아동은 언어적·문화적 배경으로 인해 교육 기회와 학습 경험에서 불평등을 겪을 수 있습니다. MORETALE은 아이의 언어 수준과 관심사를 반영한 AI 기반 이중언어 동화를 제공합니다. 읽기·듣기·퀴즈 활동을 하나의 이야기 안에 담아 가정 환경에 관계없이 양질의 학습 경험을 제공하고 지속적인 언어 학습을 지원합니다.
 
 #### 🤝 ${\textsf{\color{magenta}Target\ 10.2:\ Promoting\ Social\ Inclusion}}$
 
@@ -197,75 +198,80 @@ UNESCO와 UNICEF는 아이가 이해할 수 있는 언어로 배우는 환경과
 
 <a href="https://react.dev/">
 <kbd>
-<img src="assets/React.png" height="60" />
+<img src="assets/React.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.typescriptlang.org/">
 <kbd>
-<img src="assets/TypeScript.png" height="60" />
+<img src="assets/TypeScript.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://spring.io/">
 <kbd>
-<img src="assets/Spring.png" height="60" />
+<img src="assets/Spring.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.postgresql.org/">
 <kbd>
-<img src="assets/PostgresSQL.png" height="60" />
+<img src="assets/PostgresSQL.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.python.org/">
 <kbd>
-<img src="assets/Python.png" height="60" />
+<img src="assets/Python.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://fastapi.tiangolo.com/">
 <kbd>
-<img src="assets/FastAPI.png" height="60" />
+<img src="assets/FastAPI.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://gemini.google.com/">
 <kbd>
-<img src="assets/gemini-color.png" height="60" />
+<img src="assets/gemini-color.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://cloud.google.com/">
 <kbd>
-<img src="assets/Google Cloud.png" height="60" />
+<img src="assets/Google Cloud.png" height="48" />
+</kbd>
+</a>
+
+<a href="https://www.docker.com/">
+<kbd>
+<img src="assets/Docker.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.figma.com/">
 <kbd>
-<img src="assets/Figma.png" height="60" />
+<img src="assets/Figma.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.adobe.com/products/photoshop.html">
 <kbd>
-<img src="assets/Photoshop.png" height="60" />
+<img src="assets/Photoshop.png" height="48" />
 </kbd>
 </a>
 
 <a href="https://www.adobe.com/products/illustrator.html">
 <kbd>
-<img src="assets/Illustrator.png" height="60" />
+<img src="assets/Illustrator.png" height="48" />
 </kbd>
 </a>
-
 
 </div>
 
 <div align="center">
-<h4>React | TypeScript | Spring | PostgreSQL | Python | FastAPI | Gemini | Google Cloud Platform | Figma | Photoshop | Illustrator</h4>
+<h4>React | TypeScript | Spring | PostgreSQL | Python | FastAPI | Gemini | Google Cloud Platform | Docker | Figma | Photoshop | Illustrator</h4>
 </div>
 
 ---
@@ -290,7 +296,7 @@ UNESCO와 UNICEF는 아이가 이해할 수 있는 언어로 배우는 환경과
 > MORETALE은 아이와 부모가 함께 사용하는 서비스를 목표로, 따뜻함과 학습 동기를 전달할 수 있는 디자인을 적용했습니다.
 
 > 아동 친화적 경험을 위해 가독성과 직관성에 비중을 두었으며,
-> 서비스의 아이덴티티인 꿀벌 캐릭터를 바탕으로 노랑색과 고동색을 활용해 디자인했습니다.
+> 서비스의 아이덴티티인 꿀벌 캐릭터를 바탕으로 노랑색과 고동색을 활용했습니다.
 
 | Element | Description |
 |----------|-------------|
