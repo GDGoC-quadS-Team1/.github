@@ -11,7 +11,7 @@
 
 <h1 align="center">MORETALE</h1>
 
-(이미지추가)
+![main_intro.png](assets/main_intro.png)
 
 **다문화 가정의 아이와 부모가 함께 읽고 듣는 AI 이중언어 동화 플랫폼**
 
@@ -138,7 +138,7 @@ UNESCO와 UNICEF는 아이가 이해할 수 있는 언어로 배우는 환경과
 <div align="center">
 
 📻 <a href="https://drive.google.com/file/d/1uBPh3_xFa9vfkD9M4J_TFI-dpVWr_sZ4/view?usp=sharing">
-소리 포함 TTS 시연 영상 보기
+TTS 시연 영상 보기
 </a>
 
 </div>
