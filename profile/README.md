@@ -291,20 +291,43 @@ TTS 시연 영상 보기
 
 ---
 
-## 🎨 Branding & Design
+## 🖌️ Branding & Design
 
 > MORETALE은 아이와 부모가 함께 사용하는 서비스를 목표로, 따뜻함과 학습 동기를 전달할 수 있는 디자인을 적용했습니다.
 
-> 아동 친화적 경험을 위해 가독성과 직관성에 비중을 두었으며,
-> 서비스의 아이덴티티인 꿀벌 캐릭터를 바탕으로 노랑색과 고동색을 활용했습니다.
+> 아동 친화적인 경험을 위해 가독성과 직관성을 우선시했으며, 서비스의 아이덴티티인 꿀벌 캐릭터를 중심으로 따뜻하고 친근한 브랜드 경험을 설계했습니다.
 
-| Element | Description |
-|----------|-------------|
-| Primary Color | ![Honey Yellow](https://img.shields.io/badge/Honey%20Yellow-%23F7D81E?style=flat-square&logoColor=black) |
-| Secondary Color | ![Deep Brown](https://img.shields.io/badge/Deep%20Brown-%233E2723?style=flat-square&logoColor=white) |
-| Brand Motif | 🐝 Bee & 🍯 Honey Jar |
-| Design Keyword | Warm · Friendly · Storytelling |
-| Typography | Pretendard · Paperlogy |
+### 🐝 Brand Identity
+
+- MORETALE의 핵심 캐릭터인 꿀벌과 꿀단지를 활용하여 브랜드 아이덴티티를 시각화했습니다.
+- 단순한 학습 서비스가 아닌 **가족이 함께 성장하는 이야기 플랫폼**이라는 이미지를 전달하는 데 집중했습니다.
+
+<div align="center">
+
+<img src="assets/bee-3d.png" width="18%" alt="MORETALE Bee Character"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/moretale-logo.png" width="42%" alt="MORETALE Logo"/>
+&nbsp;&nbsp;&nbsp;
+<img src="assets/honey-jar-3d.png" width="18%" alt="MORETALE Honey Jar"/>
+
+</div>
+
+### 🎨 Color Palette
+
+- 메인 컬러는 <span style="color:#F7D81E">Honey Yellow</span>와 <span style="color:#3E2723">Dark Brown</span> 계열을 사용했습니다.
+- 따뜻함, 친근함, 안정감을 전달하여 아이와 부모 모두 부담 없이 사용할 수 있도록 설계했습니다.
+
+<div align="center">
+  <img src="assets/color-palette.png" width="85%" alt="MORETALE Color Palette"/>
+</div>
+
+| Element         | Description                                                                                              |
+|-----------------|----------------------------------------------------------------------------------------------------------|
+| Primary Color   | ![Honey Yellow](https://img.shields.io/badge/Honey%20Yellow-%23F7D81E?style=flat-square&logoColor=black) |
+| Secondary Color | ![Dark Brown](https://img.shields.io/badge/Dark%20Brown-%233E2723?style=flat-square&logoColor=white)     |
+| Brand Motif     | 🐝 Bee & 🍯 Honey Jar                                                                                    |
+| Design Keyword  | Warm · Friendly · Storytelling                                                                           |
+| Typography      | Pretendard · Paperlogy                                                                                   |
 
 ---
 
