@@ -304,11 +304,11 @@ TTS 시연 영상 보기
 
 <div align="center">
 
-<img src="assets/bee-3d.png" width="18%" alt="MORETALE Bee Character"/>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/moretale-logo.png" width="42%" alt="MORETALE Logo"/>
-&nbsp;&nbsp;&nbsp;
-<img src="assets/honey-jar-3d.png" width="18%" alt="MORETALE Honey Jar"/>
+<img src="assets/bee-3d.png" width="12%" alt="MORETALE Bee Character"/>
+&nbsp;&nbsp;
+<img src="assets/moretale-logo.png" width="45%" alt="MORETALE Logo"/>
+&nbsp;&nbsp;
+<img src="assets/honey-jar-3d.png" width="12%" alt="MORETALE Honey Jar"/>
 
 </div>
 
@@ -317,17 +317,7 @@ TTS 시연 영상 보기
 - 메인 컬러는 <span style="color:#F7D81E">Honey Yellow</span>와 <span style="color:#3E2723">Dark Brown</span> 계열을 사용했습니다.
 - 따뜻함, 친근함, 안정감을 전달하여 아이와 부모 모두 부담 없이 사용할 수 있도록 설계했습니다.
 
-<div align="center">
-  <img src="assets/color-palette.png" width="85%" alt="MORETALE Color Palette"/>
-</div>
-
-| Element         | Description                                                                                              |
-|-----------------|----------------------------------------------------------------------------------------------------------|
-| Primary Color   | ![Honey Yellow](https://img.shields.io/badge/Honey%20Yellow-%23F7D81E?style=flat-square&logoColor=black) |
-| Secondary Color | ![Dark Brown](https://img.shields.io/badge/Dark%20Brown-%233E2723?style=flat-square&logoColor=white)     |
-| Brand Motif     | 🐝 Bee & 🍯 Honey Jar                                                                                    |
-| Design Keyword  | Warm · Friendly · Storytelling                                                                           |
-| Typography      | Pretendard · Paperlogy                                                                                   |
+![color-palette.png](assets/color-palette.png)
 
 ---
 
