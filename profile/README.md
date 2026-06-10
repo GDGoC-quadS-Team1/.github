@@ -2,14 +2,12 @@
 
 <div align="center">
     <div>
-        <h2><b>MORETALE</b></h2>
+        <h1><b>MORETALE</b></h1>
         <p><i>More Language, More Tale!</i></p>
     </div>
 </div>
 
 <br>
-
-<h1 align="center">MORETALE</h1>
 
 ![main_intro.png](assets/main_intro.png)
 
