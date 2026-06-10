@@ -2,11 +2,14 @@
 
 <div align="center">
     <div>
-        <h1><b>MORETALE</b></h1>
+        <h1>
+            <a href="https://moretale.vercel.app">
+                <b>MORETALE</b>
+            </a>
+        </h1>
         <p><i>More Language, More Tale!</i></p>
     </div>
 </div>
-
 <br>
 
 ![main_intro.png](assets/main_intro.png)
