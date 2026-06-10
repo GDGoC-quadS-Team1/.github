@@ -22,7 +22,7 @@
 <br> 서로의 문화와 언어를 이해하도록 하는 AI 기반 스토리텔링 플랫폼입니다.
 
 아이의 이름 · 나이 · 언어 수준 · 관심사를 바탕으로 세상에 하나뿐인 이중언어 동화를 생성하고, 
-<br> 읽기·듣기·퀴즈·단어 학습까지 하나의 이야기 안에서 경험할 수 있도록 설계했습니다.
+<br> 읽기 · 듣기 · 퀴즈 · 단어 학습까지 하나의 이야기 안에서 경험할 수 있도록 설계했습니다.
 
 우리는 모든 아이가 자신의 언어와 문화를 소중하게 여기며 성장할 수 있는 세상을 꿈꿉니다.
 <br>
@@ -284,14 +284,14 @@ TTS 시연 영상 보기
 
 > MORETALE은 Google의 AI 및 Cloud 기술을 활용하여 다문화 가정을 위한 개인화된 이중언어 동화 서비스를 제공합니다.
 
-| Service                                                                                                                         | Description                   |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| ![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75FF?style=flat-square&logo=GoogleGemini&logoColor=white)                 | AI 기반 이중언어 동화 생성              |
-| ![Nano Banana](https://img.shields.io/badge/Nano%20Banana-4285F4?style=flat-square&logo=Google&logoColor=white)                 | 동화 삽화 및 이미지 생성                |
-| ![Google TTS](https://img.shields.io/badge/Google%20Text--to--Speech-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white) | 다국어 음성 읽기 기능                  |
-| ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                | Spring Backend 및 AI Server 배포 |
-| ![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                | PostgreSQL 데이터 저장             |
-| ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)        | 동화 이미지 및 미디어 파일 저장            |
+| Service                                                                                                                                     | Description                   |
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
+| ![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75FF?style=flat-square&logo=GoogleGemini&logoColor=white)                             | AI 기반 이중언어 동화 생성              |
+| ![Nano Banana](https://img.shields.io/badge/Nano%20Banana-4285F4?style=flat-square&logo=Google&logoColor=white)                             | 동화 삽화 및 이미지 생성                |
+| ![Gemini 2.5 Flash TTS](https://img.shields.io/badge/Gemini%202.5%20Flash%20TTS-8E75FF?style=flat-square&logo=GoogleGemini&logoColor=white) | 다국어 음성 읽기(TTS) 기능             |
+| ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                            | Spring Backend 및 AI Server 배포 |
+| ![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                            | PostgreSQL 데이터 저장             |
+| ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                    | 동화 이미지 및 미디어 파일 저장            |
 
 ---
 
