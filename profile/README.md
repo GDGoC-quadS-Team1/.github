@@ -100,7 +100,7 @@ UNESCO와 UNICEF는 아이가 이해할 수 있는 언어로 배우는 환경과
 
 <div align="center">
 
-[![MORETALE Demo](https://img.youtube.com/vi/영상ID/0.jpg)](https://www.youtube.com/watch?v=영상ID)
+[![MORETALE Demo](https://img.youtube.com/vi/kM3d2b1YGak/maxresdefault.jpg)](https://www.youtube.com/watch?v=kM3d2b1YGak)
 
 </div>
 
