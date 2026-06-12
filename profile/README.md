@@ -289,6 +289,7 @@ TTS 시연 영상 보기
 | ![Gemini](https://img.shields.io/badge/Gemini%202.5-8E75FF?style=flat-square&logo=GoogleGemini&logoColor=white)                             | AI 기반 이중언어 동화 생성              |
 | ![Nano Banana](https://img.shields.io/badge/Nano%20Banana-4285F4?style=flat-square&logo=Google&logoColor=white)                             | 동화 삽화 및 이미지 생성                |
 | ![Gemini 2.5 Flash TTS](https://img.shields.io/badge/Gemini%202.5%20Flash%20TTS-8E75FF?style=flat-square&logo=GoogleGemini&logoColor=white) | 다국어 음성 읽기(TTS) 기능             |
+| ![Web Speech API](https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)              | 단어 발음 듣기 및 브라우저 음성 재생 기능      |
 | ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                            | Spring Backend 및 AI Server 배포 |
 | ![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                            | PostgreSQL 데이터 저장             |
 | ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)                    | 동화 이미지 및 미디어 파일 저장            |
