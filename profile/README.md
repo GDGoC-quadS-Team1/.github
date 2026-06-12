@@ -344,7 +344,7 @@ TTS 시연 영상 보기
 &nbsp;|&nbsp;
 [🤖 AI Repository](https://github.com/GDGoC-quadS-Team1/MoreTale-AI)
 &nbsp;|&nbsp;
-[🎨 Figma Design](https://www.figma.com/design/m9cDByWQ92EU2fr1Qzahsg/quad-S_team-1?node-id=0-1&t=7s2W9gJNY50PVlh9-1)
+[🎨 Figma Design](https://www.figma.com/proto/m9cDByWQ92EU2fr1Qzahsg/quad-S_team-1?node-id=211-122&t=JGAbTCbz4r8ldV8g-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 </div>
 
